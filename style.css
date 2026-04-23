@@ -1,0 +1,82 @@
+body{
+    background-color: rgb(21, 255, 0);
+}
+
+#tiyo{
+    background-color: rgb(49, 177, 60);
+    width: 300vh;
+    font-size: 5vh;
+    
+    
+
+}
+
+header {
+    background-color: rgb(42, 190, 42);
+    text-align: center;
+}
+.img {
+    display: flex;
+}
+#framework {
+    width: 60vh;
+    font-size: 5vh;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 80vh;
+}
+img {
+    width: 500px;
+    height: auto;
+    margin-left: 350px;
+    margin-top: 25px;
+  }
+#imgframe {
+    margin-left: 15vh;
+    width: 20vh;
+}
+#definicion{
+    width: 60vh;
+    font-size: 5vh;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 80vh;
+
+    
+}
+#container {
+    display: flex;
+    gap: 10vh;
+}
+#parrafo{
+    width: 60vh;
+}
+#uso{
+    width: 60vh;
+    font-size: 5vh;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 80vh;
+}
+#funcion{
+    width: 60vh;
+    font-size: 5vh;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 80vh;
+}
+.componente{
+    font-size: 5vh;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 80vh;
+}
+
+#columna1 {
+    flex: 1;
+    background-color: green;
+    margin: 10px;
+    padding: 20px;
+}
+#columna2 {
+    flex: 5;
+    background-color: red;
+    margin: 30px;
+    padding: 10px;
+}
+
